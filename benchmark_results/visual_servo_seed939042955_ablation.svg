@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="500" viewBox="0 0 860 500">
+<rect width="100%" height="100%" fill="white"/>
+<text x="430" y="28" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="600">Visual-servo XY command convergence</text>
+<line x1="80" y1="430.0" x2="830" y2="430.0" stroke="#e2e8f0"/>
+<text x="70" y="434.0" text-anchor="end" font-family="sans-serif" font-size="12">0</text>
+<line x1="80" y1="355.0" x2="830" y2="355.0" stroke="#e2e8f0"/>
+<text x="70" y="359.0" text-anchor="end" font-family="sans-serif" font-size="12">5</text>
+<line x1="80" y1="280.0" x2="830" y2="280.0" stroke="#e2e8f0"/>
+<text x="70" y="284.0" text-anchor="end" font-family="sans-serif" font-size="12">10</text>
+<line x1="80" y1="205.0" x2="830" y2="205.0" stroke="#e2e8f0"/>
+<text x="70" y="209.0" text-anchor="end" font-family="sans-serif" font-size="12">15</text>
+<line x1="80" y1="130.0" x2="830" y2="130.0" stroke="#e2e8f0"/>
+<text x="70" y="134.0" text-anchor="end" font-family="sans-serif" font-size="12">20</text>
+<line x1="80" y1="55.0" x2="830" y2="55.0" stroke="#e2e8f0"/>
+<text x="70" y="59.0" text-anchor="end" font-family="sans-serif" font-size="12">25</text>
+<text x="80.0" y="454" text-anchor="middle" font-family="sans-serif" font-size="12">0</text>
+<text x="230.0" y="454" text-anchor="middle" font-family="sans-serif" font-size="12">1</text>
+<text x="380.0" y="454" text-anchor="middle" font-family="sans-serif" font-size="12">2</text>
+<text x="530.0" y="454" text-anchor="middle" font-family="sans-serif" font-size="12">3</text>
+<text x="680.0" y="454" text-anchor="middle" font-family="sans-serif" font-size="12">4</text>
+<text x="830.0" y="454" text-anchor="middle" font-family="sans-serif" font-size="12">5</text>
+<line x1="80" y1="55" x2="80" y2="430" stroke="#334155"/>
+<line x1="80" y1="430" x2="830" y2="430" stroke="#334155"/>
+<text x="455.0" y="482" text-anchor="middle" font-family="sans-serif" font-size="14">Accepted wrist updates</text>
+<text x="18" y="242.5" text-anchor="middle" transform="rotate(-90 18 242.5)" font-family="sans-serif" font-size="14">Mean XY error (mm)</text>
+<polyline points="80.0,97.7 230.0,97.7 380.0,97.7 530.0,97.7 680.0,97.7 830.0,97.7" fill="none" stroke="#64748b" stroke-width="3"/>
+<circle cx="80.0" cy="97.7" r="3" fill="#64748b"/>
+<circle cx="230.0" cy="97.7" r="3" fill="#64748b"/>
+<circle cx="380.0" cy="97.7" r="3" fill="#64748b"/>
+<circle cx="530.0" cy="97.7" r="3" fill="#64748b"/>
+<circle cx="680.0" cy="97.7" r="3" fill="#64748b"/>
+<circle cx="830.0" cy="97.7" r="3" fill="#64748b"/>
+<line x1="80" y1="457" x2="106" y2="457" stroke="#64748b" stroke-width="3"/>
+<text x="114" y="461" font-family="sans-serif" font-size="13">Off</text>
+<polyline points="80.0,97.7 230.0,207.0 380.0,207.0 530.0,207.0 680.0,207.0 830.0,207.0" fill="none" stroke="#f59e0b" stroke-width="3"/>
+<circle cx="80.0" cy="97.7" r="3" fill="#f59e0b"/>
+<circle cx="230.0" cy="207.0" r="3" fill="#f59e0b"/>
+<circle cx="380.0" cy="207.0" r="3" fill="#f59e0b"/>
+<circle cx="530.0" cy="207.0" r="3" fill="#f59e0b"/>
+<circle cx="680.0" cy="207.0" r="3" fill="#f59e0b"/>
+<circle cx="830.0" cy="207.0" r="3" fill="#f59e0b"/>
+<line x1="290" y1="457" x2="316" y2="457" stroke="#f59e0b" stroke-width="3"/>
+<text x="324" y="461" font-family="sans-serif" font-size="13">Single update</text>
+<polyline points="80.0,97.7 230.0,206.9 380.0,308.7 530.0,374.6 680.0,386.2 830.0,413.9" fill="none" stroke="#2563eb" stroke-width="3"/>
+<circle cx="80.0" cy="97.7" r="3" fill="#2563eb"/>
+<circle cx="230.0" cy="206.9" r="3" fill="#2563eb"/>
+<circle cx="380.0" cy="308.7" r="3" fill="#2563eb"/>
+<circle cx="530.0" cy="374.6" r="3" fill="#2563eb"/>
+<circle cx="680.0" cy="386.2" r="3" fill="#2563eb"/>
+<circle cx="830.0" cy="413.9" r="3" fill="#2563eb"/>
+<line x1="500" y1="457" x2="526" y2="457" stroke="#2563eb" stroke-width="3"/>
+<text x="534" y="461" font-family="sans-serif" font-size="13">Continuous servo</text>
+</svg>

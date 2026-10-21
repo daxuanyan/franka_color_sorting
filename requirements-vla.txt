@@ -1,0 +1,2 @@
+# Run with system Python, not Isaac Sim's embedded Python.
+lerobot==0.4.4

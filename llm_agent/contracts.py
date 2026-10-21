@@ -17,7 +17,7 @@ class SceneState:
     available_objects: tuple[str, ...] = ("four movable colored blocks; infer their colors and layout from the camera image",)
     target_box: str = "target_box"
     arm: str = "Franka Panda; idle; gripper open"
-    perception: str = "simulator ground-truth poses (camera integration pending)"
+    perception: str = "overhead RGB-D observation is available; local perception supplies pickup estimates while simulator physics verifies outcomes"
 
     def to_dict(self) -> dict[str, Any]:
         return asdict(self)
